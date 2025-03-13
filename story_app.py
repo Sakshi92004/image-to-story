@@ -66,7 +66,7 @@ def main() -> None:
     st.markdown(css_code, unsafe_allow_html=True)
     st.image("WhatsApp Image 2025-03-13 at 09.27.06_6d1196d0.jpg")
     with st.sidebar:
-        st.image("PragyanAI_Transperent_github.png")
+        st.image("WhatsApp Image 2025-03-13 at 09.27.06_6d1196d0.jpg")
         st.write("AI App created by @ PragyanAI - Education Purpose")
         st.write("Contact Sateesh Ambesange for 5 Days Workshop:pragyan.ai.school@gmail.com")
         st.write("TB - Story to Audio will be done Later")
